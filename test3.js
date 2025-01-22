@@ -1,3 +1,3 @@
-const addition = (x, y) {
+const addition = (x, y) => {
     return  x * y;
 }
